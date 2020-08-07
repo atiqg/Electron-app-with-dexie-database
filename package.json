@@ -14,8 +14,13 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "AtiqGauri",
+  "repository"
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/AtiqGauri/Electron-app-with-dexie-database.git"
+  },
   "devDependencies": {
     "electron": "^9.1.2"
   },
